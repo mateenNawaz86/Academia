@@ -1,0 +1,22 @@
+.section-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.section-title h1 {
+  font-size: 2.1rem;
+  font-weight: 600;
+  color: orange;
+  user-select: none;
+}
+.section-title p {
+  font-size: 13px;
+  font-weight: 300;
+  color: #777;
+  line-height: 22px;
+  padding: 10px;
+  user-select: none;
+  letter-spacing: 1px;
+}

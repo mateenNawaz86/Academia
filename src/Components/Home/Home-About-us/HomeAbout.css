@@ -1,0 +1,21 @@
+h4 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+p {
+  color: #777;
+  user-select: none;
+}
+
+.footer-icons .fab {
+  color: #f44336;
+  margin: 0 13px;
+  cursor: pointer;
+  padding: 18px 0;
+}
+
+.about-footer {
+  margin-bottom: 1.5rem;
+}

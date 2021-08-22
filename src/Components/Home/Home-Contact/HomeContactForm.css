@@ -1,0 +1,22 @@
+.call-section {
+  max-width: 80%;
+  margin: 100px auto;
+  background-color: #568080;
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.call-section h1 {
+  color: #fff;
+  margin-bottom: 40px;
+  padding: 0 1rem;
+}
+
+@media (max-width: 830px) {
+  .call-section h1 {
+    font-size: 24px;
+  }
+}

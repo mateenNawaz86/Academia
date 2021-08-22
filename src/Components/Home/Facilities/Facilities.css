@@ -1,0 +1,35 @@
+.faclities-col {
+  flex-basis: 31%;
+  text-align: left;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  user-select: none;
+}
+
+figure {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.faclities-col img {
+  width: 100%;
+  border-radius: 10px;
+  cursor: zoom-in;
+  transition: all 1.5s ease-in-out;
+}
+
+.faclities-col img:hover {
+  transform: scale(1.5);
+}
+
+.faclities-col h3 {
+  margin: 16px 0 10px 0;
+  color: orange;
+  text-transform: capitalize;
+}
+
+.faclities-col p {
+  padding: 0;
+  color: #777;
+}
